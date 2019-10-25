@@ -1,6 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+TinyMCE react where full lifecycle of the components is being rendered via TinyMCE Editor.
 
-## Available Scripts
+## TinyMCE - React
 
 In the project directory, you can run:
 
