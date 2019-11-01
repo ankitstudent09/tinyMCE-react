@@ -2,8 +2,6 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
-import NewC from './NewC';
-import Container from './Container'
 import * as serviceWorker from './serviceWorker';
 
 import { Provider } from 'react-redux';

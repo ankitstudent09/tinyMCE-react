@@ -1,5 +1,5 @@
 const INITIAL_STATE = {
-    content: [{"id": 1, "html":"<p data-id=1 class=\"paragraphNumeroUno\"> 100 I am a new content to the element with count </p><div contentEditable=\"false\" class=expand data-id=1>+</div>"}],
+    content: [{"id": 1, "html":"<p data-id=1 class=\"paragraphNumeroUno\"> 1 I am a new content to the element with count </p><div contentEditable=\"false\" class=expand data-id=1>+</div>"}],
     inc:1
   }
 
