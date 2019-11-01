@@ -11,3 +11,28 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+.test::before{
+  content:"R"
+}
+
+.expand{
+  cursor: pointer;
+  float: right;
+  margin-right: 100px;
+  background-color: lightgreen;
+  border-radius: 30px;
+  width: 26px;
+  text-align: center;
+  padding: 0px 0px 3px;
+  user-select: none;
+}
+
+ #content {
+  margin: 80px 0px ;
+  padding: 10px 0px 0px 0px;
+  
+}
+/*
+#tinymceToolbar {
+  margin: 60px 0px;
+} */
